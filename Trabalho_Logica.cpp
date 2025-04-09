@@ -1,4 +1,3 @@
-//JOAO FELIPE BATISTA DE JESUS, JOAO VICTOR AMANCIO AFONSO e  JOAO VITOR MONTEIRO DOS SANTOS 
 #include <stdio.h>
 #include <iostream>
 #include <string.h>
